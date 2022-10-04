@@ -1,0 +1,11 @@
+/*Seleciona solo los parrafos que estan viculados directamente con un DIV*/
+div > p {
+    font-size: 20px;
+}
+
+/*
+
+input [type]{}
+
+input[type="text"]{}     
+*/
